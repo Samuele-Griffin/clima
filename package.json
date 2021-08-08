@@ -1,0 +1,16 @@
+{
+  "name": "06-aplicacionclima",
+  "version": "1.0.0",
+  "description": "Aplicacion sobre el clima con Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santiago Grisafi",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "nodemon": "^2.0.12",
+    "yargs": "^17.1.0"
+  }
+}
